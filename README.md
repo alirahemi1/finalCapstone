@@ -44,7 +44,8 @@ Upon running the 'financial_calculator.py' script, you'll be prompted to choose 
 
 The NLP applications project doesn't involve running a script. To read the reports, open 'nlp_1.pdf' and 'nlp_2.pdf' using your preferred PDF reader.
 
-Screenshot placeholder
+![Screenshot of my project](https://github.com/alirahemi1/finalCapstone/blob/main/Screenshot%202023-06-06%20at%2013.04.14.png
+)
 
 ## **Credits**
 
