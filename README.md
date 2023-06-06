@@ -37,7 +37,8 @@ The second capstone project involves the application of Natural Language Process
 
 Upon running the 'financial_calculator.py' script, you'll be prompted to choose between the 'investment' and 'bond' options. Follow the prompts to input the required details. The script will then output the results based on your inputs.
 
-Screenshot placeholder
+![Screenshot of my project](https://github.com/alirahemi1/finalCapstone/blob/main/Screenshot%202023-06-06%20at%2012.59.30.png
+)
 
 **NLP Applications**
 
